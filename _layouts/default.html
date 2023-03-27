@@ -15,8 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <section>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.title | default: site.github.repository_name }}</h2>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -38,7 +37,6 @@
           <li>Apple Developer Academy graduate</li>
           <li>Self-taught Unity, working professionally since 2015</li>
         </ul>
-        </section>
       </header>
       <section>
 
