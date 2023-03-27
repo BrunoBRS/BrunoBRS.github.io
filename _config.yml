@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Bruno's Portfolio
 description: Generalist Programmer and Game Designer
+logo: assets/Pfp.png
