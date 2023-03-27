@@ -25,7 +25,7 @@ Use your party's skills to move enemies around the board in order to defeat them
 My Global Game Jam 2017 entry. Theme was "Waves". As a blind samurai spirit, use the sound of your sword hitting the sheath to see your surroundings and repel evil spirits trying to attack the meditating monk, but beware, as the sound makes the spirits angry and causes them to move faster.
 
 ## Rion's Lair
-[Rion's Lair](/assets/screen-1.png)[Rion's Lair](/assets/screen-3.png)  
+![Rion's Lair](/assets/screen-1.png) ![Rion's Lair](/assets/screen-3.png)  
 **Role:**  Programmer  
 **Genre:** Sidescroller Action  
 My Global Game Jam 2017 entry. Theme was "Waves". As a blind samurai spirit, use the sound of your sword hitting the sheath to see your surroundings and repel evil spirits trying to attack the meditating monk, but beware, as the sound makes the spirits angry and causes them to move faster.
