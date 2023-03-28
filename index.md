@@ -25,7 +25,19 @@ Use your party's skills to move enemies around the board in order to defeat them
 My Global Game Jam 2017 entry. Theme was "Waves". As a blind samurai spirit, use the sound of your sword hitting the sheath to see your surroundings and repel evil spirits trying to attack the meditating monk, but beware, as the sound makes the spirits angry and causes them to move faster.
 
 ## Rion's Lair
-<div class="row"><div class="column"><img src="/assets/screen-1.png" style = "width:100%"></div><div class="column"><img src="/assets/screen-3.png" style = "width:100%"></div></div>  
+<div class="row"><div class="column"><img src="/assets/RionsLair1.png" style = "width:100%"></div><div class="column"><img src="/assets/RionsLair2.png" style = "width:100%"></div></div>  
 **Role:**  Programmer, Designer  
 **Genre:** Turn-based RPG  
 (Delisted). Delve deep into the dungeon and fight monsters, obtaining gear and powers that can change your combat strategy.
+
+## Skyscraper
+<div class="row"><div class="column"><img src="/assets/Skyscraper1.png" style = "width:100%"></div><div class="column"><img src="/assets/Skyscraper2.png" style = "width:100%"></div></div>  
+**Role:**  Programmer  
+**Genre:** Vertical Sidescroller  
+(Delisted). Climb skyscrapers while fighting off ninjas and falling objects with your shurikens. The higher you climb, the higher the score.
+
+## Freddy's Climber
+<div class="row"><div class="column"><img src="/assets/Skyscraper1.png" style = "width:100%"></div><div class="column"><img src="/assets/Skyscraper2.png" style = "width:100%"></div></div>  
+**Role:**  Programmer  
+**Genre:** Vertical Sidescroller  
+(Delisted). Climb skyscrapers while fighting off ninjas and falling objects with your shurikens. The higher you climb, the higher the score.
