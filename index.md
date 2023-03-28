@@ -37,7 +37,19 @@ My Global Game Jam 2017 entry. Theme was "Waves". As a blind samurai spirit, use
 (Delisted). Climb skyscrapers while fighting off ninjas and falling objects with your shurikens. The higher you climb, the higher the score.
 
 ## Freddy's Climber
-<div class="row"><div class="column"><img src="/assets/Skyscraper1.png" style = "width:100%"></div><div class="column"><img src="/assets/Skyscraper2.png" style = "width:100%"></div></div>  
+<div class="row"><div class="column"><img src="/assets/Climber1.png" style = "width:100%"></div><div class="column"><img src="/assets/Climber2.png" style = "width:100%"></div></div>  
 **Role:**  Programmer  
 **Genre:** Vertical Sidescroller  
-(Delisted). Climb skyscrapers while fighting off ninjas and falling objects with your shurikens. The higher you climb, the higher the score.
+(Delisted). Climb the mountain as high as you can without missing a step. Careful not to run out of stamina between steps.
+
+## Mech Defender
+<div class="row"><div class="column"><img src="/assets/MechDefender1.png" style = "width:100%"></div><div class="column"><img src="/assets/MechDefender2.png" style = "width:100%"></div></div>  
+**Role:**  Programmer  
+**Genre:** On-rails Shooter  
+(Delisted). Repel invading drones with your mech. Call for ammo and fuel refills but be careful: the further you move away from the city, the longer it will take the resources to reach you.
+
+## Deer Guardian
+<div class="row"><div class="column"><img src="/assets/DeerGuardian1.png" style = "width:100%"></div><div class="column"><img src="/assets/DeerGuardian2.png" style = "width:100%"></div></div>  
+**Role:**  Programmer  
+**Genre:** Shooter/Tower Defense  
+(Delisted). Fight off an army of lumberjacks by firing energy projectiles and using special skills. Don't let them through, and don't shoot the giant, or else the giant will wake up and destroy a chunk of the forest while attacking you.
