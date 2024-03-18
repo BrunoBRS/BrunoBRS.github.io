@@ -1,6 +1,7 @@
 ## My Projects
 
 ## Rainbow Rumble
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OeNNNlhZcZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Role:** Programmer  
 **Genre:** Competitive 3D Platformer  
 (NOTE: working on this project does not reflect my opinions on crypto!) Race against other competitors, throw them off course, and use power ups to gain the upper hand and reach the finish line in various obstacle course stages.  
@@ -12,7 +13,6 @@
 Place cards on the board to capture and control as many cards as possible, without letting your opponent take them back. Use special abilities to control the board and ensure victory.
 
 ## Untitled Shoot'em Up Project
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DZFsb4J95HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZFsb4J95HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Role:** Solo development  
 **Genre:** Shoot'em Up  
