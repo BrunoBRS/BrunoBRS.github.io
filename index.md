@@ -24,12 +24,6 @@ Solo project I planned on working on in between jobs. Did the 3D modelling and p
 **Genre:** Turn-based RPG/Puzzle  
 Use your party's skills to move enemies around the board in order to defeat them efficiently. The faster you complete the encounter, the better the score. Higher scores yield more resources to invest in your adventurer's guild. This project has been shelved due to lack of funding, but I'd love to return to it one day.
 
-## Ohm
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnxLMwSYAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-**Role:**  Programmer  
-**Genre:** Sidescroller Action  
-My Global Game Jam 2017 entry. Theme was "Waves". As a blind samurai spirit, use the sound of your sword hitting the sheath to see your surroundings and repel evil spirits trying to attack the meditating monk, but beware, as the sound makes the spirits angry and causes them to move faster.
-
 ## Rion's Lair
 <div class="row"><div class="column"><img src="/assets/RionsLair1.png" style = "width:100%"></div><div class="column"><img src="/assets/RionsLair2.png" style = "width:100%"></div></div>  
 **Role:**  Programmer, Designer  
