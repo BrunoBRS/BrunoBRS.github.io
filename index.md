@@ -13,6 +13,7 @@ Place cards on the board to capture and control as many cards as possible, witho
 
 ## Untitled Shoot'em Up Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZFsb4J95HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DZFsb4J95HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Role:** Solo development  
 **Genre:** Shoot'em Up  
 Solo project I planned on working on in between jobs. Did the 3D modelling and player/camera controls before I had to shelve the project.
